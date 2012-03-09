@@ -62,6 +62,7 @@ The following nodes will become available on a View script upon installing this 
 |          | size       | int    | `16`        | no         |
 
 Valid values for `icon` can be obtained by running **feed-icon-selector** and inspecting the tooltip of the chosen icon.
+
 Valid values for `size` property are: 16, 22.
 
 Scripts
